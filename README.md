@@ -5,7 +5,8 @@
 <div align = "left">
   I'm all about diving into data adventures and uncovering the stories they hold. I geek out over crunching numbers, playing with algorithms, and finding the 'aha' 👀 moments hidden in datasets.
   <br>
-  📫 s.macker620@gmail.com 
+  <br>
+  📫 Want to collaborate? Email me: s.macker620@gmail.com 
   <br> 
   </div>
 <br>
